@@ -19,4 +19,12 @@ I am learning Linux as part of my Cybersecurity career roadmap.
 - Linux
 - Git
 - GitHub
+- Linux-practice-
+│
+├── README.md
+├── basic-commands.md
+├── file-management.md
+├── users-permissions.md
+├── networking.md
+└── shell-scripting.md
   
